@@ -1,0 +1,26 @@
+Metric, Metrics Set, Description, Value, Regular Range
+PNOCC,	Statistics,	"Number Of Concrete Classes",	418
+PNOAC,	Statistics,	"Number Of Abstract Classes",	3
+PNOSC,	Statistics,	"Number Of Static Classes"	,47
+PNOI,	Statistics,	"Number Of Interfaces",	30
+PNCSS,	Statistics,	"Non-Commenting Source Statements"	,11106
+PLOC,	Statistics,	"Lines Of Code",	17330
+Reusability,	"QMOOD Quality Attributes Set",	Reusability,	4.9952
+Flexibility	,"QMOOD Quality Attributes Set"	,Flexibility,	5.2247
+Understandability,	"QMOOD Quality Attributes Set",	Understandability,	-8.4104
+Functionality,	"QMOOD Quality Attributes Set",	Functionality,	5.0638,
+Extendibility,	"QMOOD Quality Attributes Set",	Extendibility,	2.7438,
+Effectiveness,	"QMOOD Quality Attributes Set",	Effectiveness,	2.9812
+MHF,	"MOOD Metrics Set", "Method Hiding Factor",	40.7830%,	[9.5000%..36.9000%)
+AHF,	"MOOD Metrics Set", "Attribute Hiding Factor",	76.6371%,	[67.7000%..100.0000%)
+MIF,	"MOOD Metrics Set", "Method Inheritance Factor",	14.3514%,	[60.9000%..84.4000%)
+AIF,	"MOOD Metrics Set", "Attribute Inheritance Factor",	82.8320%,	[37.4000%..75.7000%)
+CF,	"MOOD Metrics Set",	"Coupling Factor",	1.0185%,	[0.0000%..24.3000%)
+PF,	"MOOD Metrics Set",	"Polymorphism Factor",	230.7471%,	[1.7000%..15.1000%)
+PRMI,	"Maintainability Index",	"Maintainability Index",	0.0,	[0.0..19.0]
+PRHVL,	"Halstead Metric Set", "Halstead Volume",	291826.6016
+PRHD,	"Halstead Metric Set", "Halstead Difficulty",	8534.819
+PRCHL,	"Halstead Metric Set", "Halstead Length",	39438
+PRCHEF,	"Halstead Metric Set", "Halstead Effort",	82970345.6674
+PRCHVC,	"Halstead Metric Set", "Halstead Vocabulary",	12207
+PRCHER,	"Halstead Metric Set", "Halstead Errors",	162.5248
